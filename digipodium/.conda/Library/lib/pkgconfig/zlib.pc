@@ -1,0 +1,13 @@
+prefix=c:/Users/Anugrah/Documents/digipodium/.conda/Library
+exec_prefix=c:/Users/Anugrah/Documents/digipodium/.conda/Library
+libdir=c:/Users/Anugrah/Documents/digipodium/.conda/Library/lib
+sharedlibdir=c:/Users/Anugrah/Documents/digipodium/.conda/Library/lib
+includedir=c:/Users/Anugrah/Documents/digipodium/.conda/Library/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}
