@@ -48,7 +48,7 @@
   </graphics>
   <system>
     <numBytesPerReplayBlock value="9000000" />
-    <numReplayBlocks value="36" />
+    <numReplayBlocks value="30" />
     <maxSizeOfStreamingReplay value="1024" />
     <maxFileStoreSize value="65536" />
   </system>
@@ -60,7 +60,7 @@
     <OutputIndex value="0" />
     <ScreenWidth value="1920" />
     <ScreenHeight value="1080" />
-    <RefreshRate value="60" />
+    <RefreshRate value="120" />
     <Windowed value="0" />
     <VSync value="1" />
     <Stereo value="0" />

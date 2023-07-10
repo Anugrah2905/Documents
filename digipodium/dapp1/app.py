@@ -24,4 +24,5 @@ st.title('House price data analysis')
 
 if st.checkbox('show dataset',True):
     st.subheader('dataset')
-    st.dataframe(df)
+    st.dataframe(df) 
+    
